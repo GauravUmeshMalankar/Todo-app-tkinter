@@ -7,4 +7,4 @@ To Do List in python using Tkinter GUI
 - SAVE TASKS IN TEXT FILE
 
 ## Preview
-![TO DO List Screenshoot](media/TODO_app.png)
+![TO DO List Screenshoot](media/TODO_APP.png)
